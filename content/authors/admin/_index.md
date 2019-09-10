@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Lei Shen
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Institute of Computing Technology, Chinese Academy of Sciences
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
