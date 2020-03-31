@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Lei Shen is a PhD candidate student in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
+I am a PhD candidate student in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
 
-Her research interests mainly include Natural Language Processing and Deep learning, particularly Dialogue Systems and Text Generation.
+My research interests mainly include Natural Language Processing and Deep learning, particularly Dialogue Systems and Text Generation.
