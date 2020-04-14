@@ -6,6 +6,6 @@ authors: ["**Lei Shen**", "Yang Feng"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "ACL 2020"
+publication: "*ACL 2020 (CCF-A)*"
 ---
 

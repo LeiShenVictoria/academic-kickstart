@@ -6,6 +6,6 @@ authors: ["Wen Zhang", "Liang Huang", "Yang Feng", "**Lei Shen**", "Qun Liu"]
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*EMNLP 2018*"
+publication: "*EMNLP 2018 (CCF-B)*"
 ---
 

@@ -6,6 +6,6 @@ authors: ["**Lei Shen**", "Xiaoyu Guo", "Meng Chen", "Youzheng Wu", "Yang Feng",
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*IJCNN 2020*"
+publication: "*IJCNN 2020 (CCF-C)*"
 ---
 
