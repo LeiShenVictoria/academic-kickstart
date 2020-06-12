@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate Student
+role: Ph.D Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D candidate student in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
+I am a Ph.D candidate in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
 
 My research interests mainly include Natural Language Processing and Deep learning, particularly Dialogue Systems and Text Generation.
