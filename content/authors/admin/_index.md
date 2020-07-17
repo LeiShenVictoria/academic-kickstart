@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lei Shen
+name: Lei Shen(申磊)
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -45,12 +45,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:shenlei17z@ict.ac.cn"  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/LeiVictoria2
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=zh-CN&user=pU8oCuIAAAAJ
+- icon: semantic-scholar
+  icon_pack: ai
+  link: https://www.semanticscholar.org/author/Lei-Shen/80439483
 - icon: github
   icon_pack: fab
   link: https://github.com/LeiShenVictoria
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D candidate in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
+I am a Ph.D. candidate in [NLP Research Group](http://nlp.ict.ac.cn/), [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng).
 
 My research interests mainly include Natural Language Processing and Deep learning, particularly Dialogue Systems and Text Generation.
