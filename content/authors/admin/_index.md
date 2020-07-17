@@ -27,13 +27,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Software and Theory
+  - course: Ph.D. in Computer Software and Theory
     institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: 2017 - Now
   - course: Exchange student in Computer Science and Technology
     institution: University of California, San Diego 
     year: 2016 - 2017
-  - course: BSc in Computer Science and Technology
+  - course: B.E. in Computer Science and Technology
     institution: Minzu University of China
     year: 2013 - 2017
 
