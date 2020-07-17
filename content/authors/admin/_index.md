@@ -54,6 +54,9 @@ social:
 - icon: semantic-scholar
   icon_pack: ai
   link: https://www.semanticscholar.org/author/Lei-Shen/80439483
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Lei_Shen30
 - icon: github
   icon_pack: fab
   link: https://github.com/LeiShenVictoria
