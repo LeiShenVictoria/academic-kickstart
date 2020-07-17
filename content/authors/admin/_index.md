@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Lei Shen(申磊)
+name: Lei Shen
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Computing Technology, Chinese Academy of Sciences
+- name: ICT, CAS
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,9 +57,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Lei_Shen30
-- icon: github
-  icon_pack: fab
-  link: https://github.com/LeiShenVictoria
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/LeiShenVictoria
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
